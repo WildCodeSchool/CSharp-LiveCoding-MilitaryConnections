@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryConnections", "MilitaryConnections\MilitaryConnections.csproj", "{AE0DB571-A4E2-47C3-A572-4425469AABBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryConnectionsTest", "MilitaryConnectionsTest\MilitaryConnectionsTest.csproj", "{26C1612A-17E5-49CE-9A48-1B2B2D2937B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0DB571-A4E2-47C3-A572-4425469AABBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0DB571-A4E2-47C3-A572-4425469AABBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0DB571-A4E2-47C3-A572-4425469AABBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0DB571-A4E2-47C3-A572-4425469AABBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C1612A-17E5-49CE-9A48-1B2B2D2937B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C1612A-17E5-49CE-9A48-1B2B2D2937B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C1612A-17E5-49CE-9A48-1B2B2D2937B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C1612A-17E5-49CE-9A48-1B2B2D2937B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A51A3E-4840-4251-A503-81434E9B91A7}
+	EndGlobalSection
+EndGlobal
